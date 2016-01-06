@@ -6,7 +6,7 @@ post_date: 2014-05-05 14:19:53
 post_excerpt: ""
 layout: post
 permalink: >
-  http://florian-express.info/2014/05/05/le-herisson-dans-le-brouillard-1975/
+  http://florian-express.info/le-herisson-dans-le-brouillard-1975/
 published: true
 ---
 Le Hérisson dans le brouillard (en russe : Ёжик в тумане, Iojik v toumané) est un court métrage d'animation soviétique réalisé en 1975 par Youri Norstein, produit au studio Soyouzmoultfilm à Moscou. Le scénario a été écrit par Sergueï Lvovitch Kozlov qui a publié en russe un recueil de contes homonyme.

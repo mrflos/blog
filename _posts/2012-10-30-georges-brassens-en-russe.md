@@ -6,7 +6,7 @@ post_date: 2012-10-30 22:28:01
 post_excerpt: ""
 layout: post
 permalink: >
-  http://florian-express.info/2012/10/30/georges-brassens-en-russe/
+  http://florian-express.info/georges-brassens-en-russe/
 published: true
 ---
 [caption id="attachment_167" align="aligncenter" width="540"]<img class="wp-image-167 " title="Georges Brassens" src="http://florian-express.info/wp-content/uploads/2012/10/rvx-brassens9.jpg" alt="" width="540" height="358" /> © Lipnitzki / Roger-Viollet[/caption]

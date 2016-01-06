@@ -6,7 +6,7 @@ post_date: 2013-04-13 18:45:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://florian-express.info/2013/04/13/thepiratebayafk/
+  http://florian-express.info/thepiratebayafk/
 published: true
 ---
 L'histoire du procès des 3 énergumènes qui ont créé un réseau de partage de fichiers peer 2 peer le plus grand du monde : un brillant hacker toxicomane, un activiste de la culture libre et un technophile tendance facho!

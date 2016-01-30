@@ -1,7 +1,7 @@
 ---
 ID: 268
 post_title: 'Le Hérisson dans le Brouillard &#8211; Youri Norstein (1975)'
-title: 'Le Hérisson dans le Brouillard &#8211; Youri Norstein (1975)'
+title: Le Hérisson dans le Brouillard &#8211; Youri Norstein (1975)
 author: mrflos
 post_date: 2014-05-05 14:19:53
 post_excerpt: ""

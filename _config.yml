@@ -5,8 +5,8 @@ description: "infos partagées"
 logo: logo.png
 teaser: teaser.jpg
 locale: fr_FR
-#url: https://mrflos.github.io/blog
-url: http://localhost:4000
+url: https://mrflos.github.io/blog
+#url: http://localhost:4000
 
 # Jekyll configuration
 

@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Florian-Express</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.0.0</generator>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <subtitle>infos partagées</subtitle>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2016-01-31T01:03:33+03:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name>mrflos</name>
+    <uri>http://localhost:4000/</uri>
+    <email>mrflos@gmail.com</email>
+  </author>
+
+  
+  <entry>
+    <title>Le Hérisson dans le Brouillard</title>
+    <link href="http://localhost:4000/videos/le-herisson-dans-le-brouillard-1975/"/>
+    <updated>2014-05-05T00:00:00+04:00</updated>
+    <id>http://localhost:4000/videos/le-herisson-dans-le-brouillard-1975</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://localhost:4000/images/featured-herisson-dans-le-brouillard.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;Le Hérisson dans le brouillard (en russe : Ёжик в тумане, Iojik v toumané) est un court métrage d’animation soviétique réalisé en 1975 par Youri Norstein, produit au studio Soyouzmoultfilm à Moscou. Le scénario a été écrit par Sergueï Lvovitch Kozlov qui a publié en russe un recueil de contes homonyme.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/sbW2wDklJ_o&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://fr.wikipedia.org/wiki/Le_H%C3%A9risson_dans_le_brouillard&quot;&gt;https://fr.wikipedia.org/wiki/Le_H%C3%A9risson_dans_le_brouillard&lt;/a&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>TPB AFK: The Pirate Bay Away from Keyboard</title>
+    <link href="http://localhost:4000/videos/thepiratebayafk/"/>
+    <updated>2013-04-13T00:00:00+04:00</updated>
+    <id>http://localhost:4000/videos/thepiratebayafk</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://localhost:4000/images/featured-pirate-bay.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;L’histoire du procès des trois énergumènes qui ont créé un réseau de partage de fichiers peer 2 peer le plus grand du monde : un brillant hacker toxicomane, un activiste de la culture libre et un technophile tendance facho!&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/-SXMRuoA4-I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Histoire d&amp;rsquo;amour et de bouteille</title>
+    <link href="http://localhost:4000/videos/histoire-damour-et-de-bouteille/"/>
+    <updated>2013-04-11T00:00:00+04:00</updated>
+    <id>http://localhost:4000/videos/histoire-damour-et-de-bouteille</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://localhost:4000/images/featured-amour-bouteille.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;Les relations à distance, ca finit par demander une vraie rencontre. La preuve en vidéo !&lt;/p&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/5mVEapKnS1c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Music from Saharan Cellphones: Volume 2</title>
+    <link href="http://localhost:4000/musique/music-from-saharan-cellphones-volume-2/"/>
+    <updated>2013-03-02T00:00:00+04:00</updated>
+    <id>http://localhost:4000/musique/music-from-saharan-cellphones-volume-2</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://localhost:4000/images/featured-saharan-cellphones.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;De la musique passée de téléphone portable à téléphone portable entre nomades du Sahara.&lt;/p&gt;
+&lt;iframe style=&quot;position: relative; display: block; width: 400px; height: 100px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/v=2/album=246458167/size=venti/bgcol=FFFFFF/linkcol=4285BB/&quot; height=&quot;100&quot; width=&quot;400&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Georges Brassens en russe</title>
+    <link href="http://localhost:4000/musique/georges-brassens-en-russe/"/>
+    <updated>2012-10-30T00:00:00+04:00</updated>
+    <id>http://localhost:4000/musique/georges-brassens-en-russe</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://localhost:4000/images/featured-georges-brassens.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;Georges Brassens a toujours eu une place prépondérante dans mon existence : c’est mon phare.&lt;/p&gt;
+
+&lt;p&gt;Il m’indique la bonne direction, je trouve réconfort dans ses paroles, c’est aussi le père spirituel moustachu idéal qu’on aimerait tous avoir (enfin moi c’est sûr), un gars simple, un peu tendance feignasse du terroir sud de France, avec un bon sens de l’humour, de l’auto-dérision, qui n’aime pas les cul bénis, les “forces” de l’ordre, les braves gens, et qui aime les femmes, les amis, la dignité des gens honnêtes, le “bon dieu”, les bons mots, la vie quoi!&lt;/p&gt;
+
+&lt;p&gt;C’est un subtil bougre, un ours et un poète, un critique tolérant, un clown sérieux, un engagé désinvolte, un anarchiste et un romantique, de la chair et de l’esprit!&lt;/p&gt;
+
+&lt;p&gt;Ses chansons m’ont accompagné dès l’adolescence (il m’a d’ailleurs fort bien éduqué à ce moment là, c’était mal parti!), sa tombe servait de table à pique nique / pèlerinage avant notre départ au Maroc, sa ville maritime m’a envoûté, et encore ici, au bout de l’Europe, il est encore là à me poursuivre!&lt;/p&gt;
+
+&lt;p&gt;J’ai en effet trouvé ses chansons traduites en russe, ce qui m’a voulu une intégration plus facile auprès du beau père, qui est un inconditionnel des chanteurs contestataires à texte, la traduction de &lt;a href=&quot;http://brassens.ru/s_20.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Mourir pour des idées&lt;/strong&gt;&lt;/a&gt; a suffit pour être définitivement adopté!&lt;/p&gt;
+
+&lt;p&gt;En plus, il y a même des vidéos des chansons interprétées en russe sur Youtube (agrémentées de bandes dessinées, qui plus est!)&lt;/p&gt;
+
+&lt;iframe src=&quot;http://www.youtube.com/embed/vY40icEkVSU&quot; frameborder=&quot;0&quot; width=&quot;420&quot; height=&quot;315&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://www.youtube.com/embed/-D9v-9K5T1U&quot; frameborder=&quot;0&quot; width=&quot;420&quot; height=&quot;315&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://www.youtube.com/embed/PXMoXZF697Y&quot; frameborder=&quot;0&quot; width=&quot;420&quot; height=&quot;315&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Comment une musique faite de pompe peut elle être aussi universelle ? Peut être au delà de la musique, la justesse d’un homme.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;PS : et un débat sur l’engagement avec Ferrat en cadeau bonus&lt;/p&gt;
+&lt;iframe src=&quot;http://www.youtube.com/embed/APrCehmhX5w&quot; frameborder=&quot;0&quot; width=&quot;420&quot; height=&quot;315&quot;&gt;&lt;/iframe&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Vladimir Vyssotski La Fin Du Bal</title>
+    <link href="http://localhost:4000/musique/vladimir-vyssotski-la-fin-du-bal/"/>
+    <updated>2012-10-19T00:00:00+04:00</updated>
+    <id>http://localhost:4000/musique/vladimir-vyssotski-la-fin-du-bal</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://localhost:4000/images/featured-vladimir-vysotski.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;La découverte d’un pays commence pour moi souvent par la découverte de sa culture, en particulier sa culture musicale!&lt;/p&gt;
+
+&lt;p&gt;Mon premier coup de cœur que je tiens à partager, c’est Vladimir Vyssotski : http://fr.wikipedia.org/wiki/Vladimir_Vyssotski&lt;/p&gt;
+
+&lt;p&gt;Je tiens mon chanteur rebelle de l’ère soviétique, qui à voyagé dans le monde mais qui est toujours revenu à Moscou, même s’il n’a jamais été reconnu comme chanteur officiel, pour cause ses chansons parlait de la vraie vie des gens.&lt;/p&gt;
+
+&lt;p&gt;Une voix pleine d’émotion, et des textes traduits en français comme celui là, magnifique selon moi, et un thème romantique classique, la fin du bal, sans avoir eu le temps de se déclarer à la vie, à l’amour, voila déjà l’injuste mort…&lt;/p&gt;
+
+&lt;p&gt;Je vous laisse cliquer ci dessous pour le son, je vous invite à lire ses paroles ci dessous.&lt;/p&gt;
+&lt;iframe src=&quot;http://www.youtube.com/embed/KIxloPaTZZ4&quot; frameborder=&quot;0&quot; width=&quot;420&quot; height=&quot;315&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;La Fin Du Bal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Comme le fruit tombé sans avoir pût mûrir,
+La faute à l’homme, la faute au vent…
+Comme l’homme qui sait en se voyant mourir
+Qu’il n’aura plus jamais de temps.&lt;/p&gt;
+
+&lt;p&gt;Un jour de plus il aurait pût chanter
+Faute au destin, faute à la chance,
+Faute à ses cordes qui c’étaient cassées
+Son chant s’appellera silence&lt;/p&gt;
+
+&lt;p&gt;Il peut toujours le commencer,
+Nul ne viendra jamais danser…&lt;/p&gt;
+
+&lt;p&gt;Nul ne le reprendra en chœur
+Il n’aura jamais rien finit
+A part, cette blessure au cœur
+Et cette vie…&lt;/p&gt;
+
+&lt;p&gt;Pourquoi, j’voudrais savoir pourquoi, pourquoi,
+Elle vient trop tôt la fin du bal?
+C’est les oiseaux, jamais les balles
+Qu’on arrête en plein vol.&lt;/p&gt;
+
+&lt;p&gt;Comme ces disputes commencées le soir
+Faute à la nuit, faute à l’alcool
+Et dont il ne restera rien plus tard
+Que quelques mégots sur le sol&lt;/p&gt;
+
+&lt;p&gt;Il aurait tant voulu frapper pourtant
+Faute au couteau faute à la peur
+Il n’aura faire aucun combat au sang
+Juste le temps d’un peu de sueur&lt;/p&gt;
+
+&lt;p&gt;Lui qu’aurait voulu tout savoir
+Il n’aura même pas put tout voir…&lt;/p&gt;
+
+&lt;p&gt;Lui qui avait l’amour aux corps
+Pour la seule qu’il aurait gardée
+Il a rendu sa barque au port
+Sans l’embrasser, sans la toucher, juste y penser jusqu’à la mort!&lt;/p&gt;
+
+&lt;p&gt;Pourquoi, j’voudrais savoir pourquoi, pourquoi,
+Elle vient trop tôt la fin du bal?
+C’est les oiseaux, jamais les balles
+Qu’on arrête en plein vol.&lt;/p&gt;
+
+&lt;p&gt;Il écrivait comme on se sort d’un piège
+Faute au soleil, faute aux tourments
+Mais comme il prenait pour papier la neige
+Ces idées fondaient au printemps…&lt;/p&gt;
+
+&lt;p&gt;Et quand la neige recouvrait sa page
+Faute à frimas, faute à l’hiver
+Au lieu d’écrire il essayait courage
+D’attraper les flocons en l’air&lt;/p&gt;
+
+&lt;p&gt;Mais aujourd’hui il est trop tard
+Il n’aura pas pris le départ…&lt;/p&gt;
+
+&lt;p&gt;Et son souvenir ne sera
+Que la chanson d’avant la lute
+De l’évadé qui n’aura pas
+Atteint son bute&lt;/p&gt;
+
+&lt;p&gt;Pourquoi, j’voudrais savoir pourquoi, pourquoi,
+Elle vient trop tôt la fin du bal?
+C’est les oiseaux, jamais les balles
+Qu’on arrête en plein vol.&lt;/p&gt;
+
+&lt;p&gt;200.000 personnes à son enterrement pourtant non médiatisé, la plus grande manifestation populaire spontanée de toute l’histoire de l’Union Soviétique, bravo l’artiste!!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Souzdal</title>
+    <link href="http://localhost:4000/trucsperso/souzdal/"/>
+    <updated>2012-10-12T00:00:00+04:00</updated>
+    <id>http://localhost:4000/trucsperso/souzdal</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;&lt;strong&gt;TODO&lt;/strong&gt; : mettre une gallerie photo&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Souzdal</title>
+    <link href="http://localhost:4000/trucs-perso/souzdal/"/>
+    <updated>2012-10-12T00:00:00+04:00</updated>
+    <id>http://localhost:4000/trucs-perso/souzdal</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;&lt;strong&gt;TODO&lt;/strong&gt; : mettre une gallerie photo&lt;/p&gt;
+
+&lt;p&gt;Une petite vidéo à l’intérieur du monastère Saint-Euthymius, cathédrale de la Transfiguration et beffroi, à Souzdal (en Russie) au son des cloches !!&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/A8hcQCnuL5E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Rétrospective passionnante sur les jeux vidéos</title>
+    <link href="http://localhost:4000/trucsperso/retrospective-passionnante-sur-les-jeux-videos/"/>
+    <updated>2009-12-21T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/retrospective-passionnante-sur-les-jeux-videos</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;[caption id=”attachment_113” align=”aligncenter” width=”500” caption=”Photo : Farnea - Flickr - Creative Commons”]&lt;img class=&quot;size-full wp-image-113 &quot; title=&quot;Manettes&quot; src=&quot;http://florian-express.info/wp-content/uploads/2009/12/manettes.jpg&quot; alt=&quot;manettes&quot; width=&quot;500&quot; height=&quot;180&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Personnellement, je n’utilise pas trop les vibromasseurs, mais j’ai tout de même toujours grandi avec  un baton de plaisir dans les mains: le joystick!&lt;/p&gt;
+
+&lt;p&gt;Je fais parti de la génération qui a vu la naissance du jeu vidéo, et même si je manque de temps, depuis le passage à l’age adulte, de m’y consacrer pleinement, j’adore garder un oeil sur ce qui sort.&lt;/p&gt;
+
+&lt;p&gt;J’ai découvert cette présentation (ci dessous) certes longue, une centaine de page, mais ne vous laissez pas dissuader : ca se lit très vite, c’est très visuel, pertinent et intéressant.&lt;/p&gt;
+
+&lt;p&gt;On y voit pléthore de jeux ayant marqué différentes époques, et le fait voir cette chronologie est vraiment générateur de curiosité et d’espoir pour la suite!&lt;/p&gt;
+
+&lt;p&gt;Jusqu’où iront-ils?&lt;/p&gt;
+&lt;div style=&quot;width: 510px; text-align: left;&quot;&gt;De plus j&#39;aime beaucoup la citation comparant les jeux vidéos et les psychotropes (slide n°8)!&lt;/div&gt;
+&lt;div style=&quot;width: 510px; text-align: center;&quot;&gt;&lt;a style=&quot;font: 14px Helvetica,Arial,Sans-serif; display: block; margin: 12px 0 3px 0; text-decoration: underline;&quot; title=&quot;L&#39;esthétique du jeu vidéo: de l&#39;abstraction géométrique au triomphe du photoréalisme&quot; href=&quot;http://www.slideshare.net/regarde/lesthtique-du-jeu-vido-de-labstraction-gomtrique-au-triomphe-du-photoralisme&quot;&gt;L&#39;esthétique du jeu vidéo: de l&#39;abstraction géométrique au triomphe du photoréalisme&lt;/a&gt;&lt;object style=&quot;margin: 0 auto;&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;425&quot; height=&quot;355&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=pthebaultesthetiquejvnew-091212134853-phpapp02&amp;amp;stripped_title=lesthtique-du-jeu-vido-de-labstraction-gomtrique-au-triomphe-du-photoralisme&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;embed style=&quot;margin: 0 auto;&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;355&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=pthebaultesthetiquejvnew-091212134853-phpapp02&amp;amp;stripped_title=lesthtique-du-jeu-vido-de-labstraction-gomtrique-au-triomphe-du-photoralisme&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;div id=&quot;__ss_2705972&quot; style=&quot;width: 425px; text-align: left;&quot;&gt;
+&lt;div style=&quot;font-size: 11px; font-family: tahoma,arial; height: 26px; padding-top: 2px;&quot;&gt;View more &lt;a style=&quot;text-decoration: underline;&quot; href=&quot;http://www.slideshare.net/&quot;&gt;documents&lt;/a&gt; from &lt;a style=&quot;text-decoration: underline;&quot; href=&quot;http://www.slideshare.net/regarde&quot;&gt;Pierrick Thébault&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Bientôt la fin de la révolution</title>
+    <link href="http://localhost:4000/trucsperso/revolution/"/>
+    <updated>2009-12-19T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/revolution</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;[caption id=”attachment_120” align=”aligncenter” width=”500” caption=”Photo : donricardopezzano - Flickr - Creative Commons”]&lt;img class=&quot;size-full wp-image-120&quot; title=&quot;machine à remonter dans le temps&quot; src=&quot;http://florian-express.info/wp-content/uploads/2009/12/3230179951_24e1f0f7f9_o.jpg&quot; alt=&quot;machine à remonter dans le temps&quot; width=&quot;500&quot; height=&quot;181&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Chers intrépides et nombreux lecteurs de ce blog (au dernier recencement, il restait Julien P. et David D.)!&lt;/p&gt;
+
+&lt;p&gt;Quel meilleur moment que la fin d’année pour se faire une petite rétrospective toute pleine de bons sentiments et de nostalgie sur, généralement, notre propre vécu, ou sur les événements ayant marqué l’actualité, ou toutes sortes de choses que l’on voit par le rétroviseur…&lt;/p&gt;
+
+&lt;p&gt;Car en effet, on finit une année, en quoi est ce une fin? Je ne puis vous répondre, à mon sens, il n’y a pas trop de différences entre la journée du 31 décembre et celle du 1er janvier : il fait froid, le soleil se lève le matin et se couche le soir, et tout semble être d’une parfaite continuité. Plus qu’une continuité, il s’agit même d’un cycle:&lt;/p&gt;
+
+&lt;p&gt;Je peux affirmer que l’on aura fait une fois le tour du soleil depuis le dernier jour de l’an. Nous aurons donc à ce moment précis fini notre révolution.&lt;/p&gt;
+
+&lt;p&gt;Et oui… La fin de la révolution, c’est triste, ca faisait presque un an qu’on la préparait, qu’on sentait qu’on avançait, et finalement, après une lutte acharnée de tous les instants, tout ca s’arrête.&lt;/p&gt;
+
+&lt;p&gt;Mais ne vous inquiétez pas car le jour de la fin de la révolution est aussi en même temps le jour d’un nouveau cycle de révolution, qui durera 365,24221935 jours, c’est précis mais c’est qu’il n’y a qu’un petit instant ou l’on peut considérer qu’on passe de la fin de la révolution précédente à la révolution suivante, un peu comme si l’on passait instantanément d’un coucher de soleil à un lever de soleil (comme si le soleil était un balle rebondissante :  d’où le fait que Mao appela sa révolution le grand bond en avant (désolé…)).&lt;/p&gt;
+
+&lt;p&gt;Je signale donc au passage que nous sommes dans l’erreur de fêter la fin de la révolution (ou le début de la nouvelle révolution) à minuit pile, étant donné que le 0,24221935 jour restant (soit 5h et 49 min environ)  est à ajouter chaque année de manière cumulée, sauf les années bissextiles, où nous remettons les pendules à l’heure (malgré une légère imprécision qui engendre une erreur de 3 jours tous les 10 000 ans).. C’est dommage car il me parrait important d’apprécier la beauté d’un instant au bon moment…&lt;/p&gt;
+
+&lt;p&gt;Vous aussi, vous vous demandez: pourquoi ce bon moment de révolution a t’il lieu en date du premier janvier? Vous trouverez la réponse ici : &lt;a title=&quot;Voir ce site&quot; href=&quot;http://www.linternaute.com/histoire/magazine/dossier/06/jours-feries/1er-janvier/1er-janvier.shtml&quot; target=&quot;_blank&quot;&gt;http://www.linternaute.com/histoire/magazine/dossier/06/jours-feries/1er-janvier/1er-janvier.shtml&lt;/a&gt; , sachez simplement (si vous avez la flemme de lire le billet du précédent lien) que janvier c’est le mois tout de suite après la naissance du Christ, alors si ca c’est pas une bonne raison pour commencer une révolution à cette date!&lt;/p&gt;
+
+&lt;p&gt;Après, étrangement, les manuels d’histoire, que notre cher gouvernement va heureusement bientôt faire disparaitre, parlent de révolution à des dates bien précises, comme le 14 juillet 1789. Cela peut prêter à confusion, mais quand on y réfléchit, c’est vrai que chaque jour de l’année est la révolution du même jour de l’année précédente (en faisant abstraction des approximations énoncées plus haut). Pourquoi certain historiens ont choisit de désigner certaines dates comme révolutionnaires et d’autres non, je ne me l’explique pas, peut être simplement pour marquer l’histoire.&lt;/p&gt;
+
+&lt;p&gt;De même, pourquoi parle t’on du jour de notre naissance que de notre “anniversaire”, alors que l’on devrait dire plutôt “révolution natale”?&lt;/p&gt;
+
+&lt;p&gt;Un petit mot aussi pour fustiger tous ces contres-révolutionnaires : pour aller jusqu’au bout de votre pensée, et empècher la révolution, il faudrait arrêter le temps, vous êtes vraiment des utopistes! Ou alors arrêter le mouvement des planêtes, mais cela nous tuerai, chers messieurs! Il vous faut l’admettre, vous êtes vous aussi révolutionnaires.&lt;/p&gt;
+
+&lt;p&gt;En tout cas, une chose me fait bien plaisir : même en prenant une date en référence (dans notre cas, le 1er janvier à cause de Charles IX, l’homme qui voulait standardiser les révolutions!), étant donné que le cycle ne fait que se répéter jusqu’à la fin des temps, c’est tous les jours la révolution!!&lt;/p&gt;
+
+&lt;p&gt;Ces aspects cycliques, ce mouvement perpétuel est tout à fait euphorisant pour nous, révolutionnaires qui luttons , car comme le dit un fumeur de pipe mexicaine, sans doute balaise en astronomie “La lutte est comme un cercle : elle peut se commencer à n’importe quel point, mais elle ne se termine jamais “&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>La cote de turquoise, acte 3</title>
+    <link href="http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-3/"/>
+    <updated>2008-12-26T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-3</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;div class=&quot;mceTemp mceIEcenter&quot;&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Je ne dépasserais pas les trois actes pour cette cote de turquoise, car cela pourrait par la suite ressembler a une tragédie (remarque 5 actes, il reste un peu de marge... ). Au moins le format trilogie, ca finit toujours bien comme pour le Seigneur des anneaux par exemple!&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;En tout cas, après avoir rejoint Marmaris, nous prenons le prochain bus pour Fethiye, afin d&#39;y voir les fameuses tombes Hittites : vieux tombeaux creusés dans la montagne. On est chanceux, c&#39;est gratuit en basse saison.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;/p&gt;
+
+&lt;dl id=&quot;attachment_80&quot; class=&quot;wp-caption aligncenter&quot; style=&quot;width: 310px;&quot;&gt; &lt;dt class=&quot;wp-caption-dt&quot; style=&quot;text-align: center;&quot;&gt;&lt;img class=&quot;size-medium wp-image-80 &quot; title=&quot;tombes_fethiye1&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/tombes_fethiye1-300x225.jpg&quot; alt=&quot;Vue d&#39;ensemble des tombes&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/dt&gt; &lt;dd class=&quot;wp-caption-dd&quot;&gt;Vue d&#39;ensemble des tombes&lt;/dd&gt; &lt;/dl&gt;&lt;/div&gt;
+
+&lt;p&gt;[caption id=”attachment_79” align=”aligncenter” width=”225” caption=”Gros plan sur la grande tombe”]&lt;img class=&quot;size-medium wp-image-79 &quot; title=&quot;tombes_fethiye21&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/tombes_fethiye21-225x300.jpg&quot; alt=&quot;Gros plan sur la grande tombe&quot; width=&quot;225&quot; height=&quot;300&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;On repart pour Kalekoy, le bus n’y va pas en basse saison, mais nous dépose a 10 km : on peut se tenter le stop, c’est pas la petite galère de la presqu’ile qui va nous décourager! Ceci dit, cette fois, il n’y a pas de bus de secours, en cas d’échec …&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_83” align=”aligncenter” width=”226” caption=”Le stop en turc, c&#39;est dur…”]&lt;img class=&quot;size-medium wp-image-83&quot; title=&quot;stop&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/stop-226x300.jpg&quot; alt=&quot;Le stop en turc, c&#39;est dur...&quot; width=&quot;226&quot; height=&quot;300&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;On pourra dire  que l’attente fut longue : toujours ce problème de trafic un peu léger, et surtout la plupart des voitures sont pleines. Nous avons cependant quelques compagnons de stop : une vieille femme qui se fait prendre par ses amis presque instantanément, un homme qui pourra monter derrière une moto , un autre homme que aura la chance d’avoir la dernière place dans une voiture bien chargée, mais pour nous, personne… Presque on s’apprêtait a se construire un abri de fortune quand enfin arriva notre sauveur : Hassan, la quarantaine décontractée, cheveux longs,  barbe fine, cuisinier a Ucaguz, le village voisin de Kalekoy! Il tient un restaurant juste a cote du port de plaisance, permettant l’accès maritime a Kalekoy.&lt;/p&gt;
+
+&lt;p&gt;On décide de s’arrêter manger chez lui pour le remercier, surtout qu’une affiche l’annonce comme étant le meilleur cuisinier de la méditerranée! On mangera du poisson avec un bout de concombre, un bout de tomate, du riz et du persil, rien de très sophistique ni de très raffiné en fin de compte…&lt;/p&gt;
+
+&lt;p&gt;Son neveu nous propose une ballade en yacht pour aller voir la cite engloutie de l’ile de Kekova et le village de Kalekoy, mais le prix est assez redibitoire (en comparaison du prix indique par Kaptan Martin pour  la traversee en barque). On fait mine de ne pas etre interesses et petit a petit le prix descend tout au long du repas, jusqu’a etre tres raisonable au moment du the. On cede a la tentation, d’autant plus qu’en barque, on ne pourrait que traverser sans voir la cite engloutie.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_84” align=”aligncenter” width=”300” caption=”Notre yacht”]&lt;img class=&quot;size-medium wp-image-84&quot; title=&quot;yacht&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/yacht-300x225.jpg&quot; alt=&quot;Notre yacht&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Nous voila donc a deux sur notre yacht a admirer les paysages sous marins et sur marins. On apercoit des pans  de murs entiers sous l’eau, impressionnant!&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_82” align=”aligncenter” width=”300” caption=”La sentinelle de garde a Kalekoy”]&lt;img class=&quot;size-medium wp-image-82&quot; title=&quot;chevre&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/chevre-300x225.jpg&quot; alt=&quot;La sentinelle de garde a Kalekoy&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_81” align=”aligncenter” width=”300” caption=”La cite engloutie”]&lt;img class=&quot;size-medium wp-image-81&quot; title=&quot;cite_engloutie&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/cite_engloutie-300x225.jpg&quot; alt=&quot;La cite engloutie&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Puis nous faisons escale a Kalekoy : ce village est construit sur des ruines anciennes, mais construit a la turque, ce qui lui donne un charmant aspect decousu et labyrinthique. Un chateau byzantin domine l’ensemble, puis sur le crete est, on apercoit quelques tombes antiques, parsemees au milieu d’un champ d’oliviers millenaires. Un couple de vieux gardent un troupeau de chevres au milieu de ce drole de “musee” en plein air.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_86” align=”aligncenter” width=”300” caption=”Tombes, oliviers et chevres “]&lt;img class=&quot;size-medium wp-image-86&quot; title=&quot;tombes_chevres&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/tombes_chevres-300x225.jpg&quot; alt=&quot;Tombes, oliviers et chevres &quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Ce village est calme, beau, et son environnement exceptionnel.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_88” align=”aligncenter” width=”300” caption=”Le village de Kalekoy”]&lt;img class=&quot;size-medium wp-image-88&quot; title=&quot;kalekoy&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/kalekoy-300x225.jpg&quot; alt=&quot;Le village de Kalekoy&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;On passe dire bonjour de la part du Kaptan Martin a un autre restaurant Hassan : la legende raconte qu’un guide touristique a fait une critique elogieuse du restaurant Hassan de Kalekoy, depuis tous les restaurants du coin s’appelent restaurant Hassan! Sur le depart du port, on croise une barque d’ecoliers qui arrivent a 20 dans leur minuscule bateau, tandis que nous, on a notre yacht a deux. Nous voulions voyager en coherence avec les habitudes locales, autant dire que la, c’est rate… Ceci dit les paysages marins sompteux au coucher du soleil nous feront vite oublier ce derapage.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_87” align=”aligncenter” width=”300” caption=”Coucher de soleil”]&lt;img class=&quot;size-medium wp-image-87&quot; title=&quot;coucher&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/coucher-300x225.jpg&quot; alt=&quot;Coucher de soleil&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;On finit par passer la nuit sur la terrasse du restaurant d’Hassan (celui qui nous a pris en stop) qui nous offre aussi le the, quelle hospitalite ces turcs!&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_85” align=”aligncenter” width=”300” caption=”Restaurant Hassan”]&lt;img class=&quot;size-medium wp-image-85&quot; title=&quot;resto_hassan&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/resto_hassan-300x225.jpg&quot; alt=&quot;Restaurant Hassan&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;J’opte pour la terrasse couverte avec carrelage (j’ai mon carremat qui me sert pour la troisieme fois du voyage!), Baptiste prefere le confort des coussins sur les bancs exterieurs et la vue des etoiles : cela sera temporaire pour lui car en pleine nuit, un orage eclate. Si l’on rajoute a cela les quelques moustiques plutot gourmands qui nous empeche de profiter de Mosphee, on peut dire que cette nuit ne fut pas de tout repos…&lt;/p&gt;
+
+&lt;p&gt;Le lendemain, Hassan nous offre un dernier the avant que l’on parte, merci mille fois, quel accueil! Puis nous partons pour Antalya, notre derniere etape du bord de mer. Quelle belle cote, cette cote de turquoise, dire qu’en saison plus chaude, on aurait pu se faire une randonnee de 100 km alliant sites historiques et paysages de littoral, le long de la voie lycienne.&lt;/p&gt;
+
+&lt;p&gt;En tout cas j’ai trouve un endroit ou je passerai volontier ma retraite, mais je crains qu’il faille attendre un demi siecle encore… Mais je serai patient, car le bon air marin, les oliviers millenaires, les vestiges antiques et la gentillesse des habitants seront toujours la!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Les petits plus turcs</title>
+    <link href="http://localhost:4000/trucsperso/les-petits-plus-turcs/"/>
+    <updated>2008-12-13T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/les-petits-plus-turcs</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Voici la liste non exaustive des petits plus qui font la difference en Turquie :&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;On peut acheter des gobelets d&#39;eau minerale : sorte de pot de yahourt souple transparent, avec de l&#39;eau dedans (ben oui, moi je trouve ca depaysant!)&lt;/li&gt;
+	&lt;li&gt;Il y a des cafes ou l&#39;on ne fait que boire du the et cafe, en jouant aux cartes, au backgammon ou au rami, dans une atmosphere enfummee&lt;/li&gt;
+	&lt;li&gt;Les feux rouges disposent d&#39;un compte a rebours&lt;/li&gt;
+	&lt;li&gt;Les turcs sont d&#39;une gentillesse extreme, et sont tres fiers de rendre service&lt;/li&gt;
+	&lt;li&gt;On peut se parfumer a l&#39;eau de cologne dans les bus&lt;/li&gt;
+	&lt;li&gt;Les couples de tout age manifestent leur amour par des bisous sur le front, ou autres gestes d&#39;affection&lt;/li&gt;
+	&lt;li&gt;Certains paves en ville sont clignotants et changent de couleur&lt;/li&gt;
+	&lt;li&gt;Les chants d&#39;appel a la priere sont divers et mystiques&lt;/li&gt;
+	&lt;li&gt;Il y a des epouvantails a automobilistes : de fausses voitures de police en carton!&lt;/li&gt;
+	&lt;li&gt;Les toilettes turques modernes sont comme les notres, mais avec l&#39;option bidet, avec un petit jet d&#39;eau arrivant par derriere&lt;/li&gt;
+&lt;/ul&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Les petits plus grecs</title>
+    <link href="http://localhost:4000/trucsperso/les-petits-plus-grecs/"/>
+    <updated>2008-12-13T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/les-petits-plus-grecs</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Bon, comme les recits prennent trop de temps a ecrire, je vais de temps en temps faire des billets hors contexte, afin de pouvoir revenir sur des details de maniere rapide.&lt;/p&gt;
+
+&lt;p&gt;Voici la liste non exaustive des petits plus qui font la difference en Grece :&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;A Athenes, les paves des routes sont balises pour permettre aux aveugles de circuler&lt;/li&gt;
+	&lt;li&gt;La plupart des restaurant vous offre de dessert&lt;/li&gt;
+	&lt;li&gt;Les vieux grecs sont les champions du monde du tournage de chapelet&lt;/li&gt;
+	&lt;li&gt;Les alcools sont pas chers&lt;/li&gt;
+	&lt;li&gt;On peut fumer de partout&lt;/li&gt;
+	&lt;li&gt;On peut prendre des photos dans tous les musees&lt;/li&gt;
+	&lt;li&gt;En arrivant au bar, on vous sert un verre d&#39;eau avant meme de demander votre commande&lt;/li&gt;
+	&lt;li&gt;Le bus vous prend, et vous depose n&#39;importe ou sur la route&lt;/li&gt;
+	&lt;li&gt;Il fait plus de 25 degres en novembre&lt;/li&gt;
+&lt;/ul&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>La cote de turquoise, acte 2</title>
+    <link href="http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-2/"/>
+    <updated>2008-12-13T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-2</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;La presqu’ile de Bozburun n’est pas trop accessible en transport en commun, qu’a cela ne tienne, on va tester le stop en Turquie! Ca marche plutot pas mal, au bout de 3 voitures, un couple d’anglais, la cinquantaine nous amene dans une voiture locale, jusqu’au prochain mini village sur la route de Bozburun. Ils se sont installes la, parlent turc et apprecient l’environnement naturel de la presque ile de Bozburun, malgre le fait que les bateaux du port de plaisance ont tendance a deverser le contenu de leurs toilettes dans la mer… C’est pourtant interdit, je ne sais pas comment ils font pour ne pas se faire reperer avec cette mer totalement transparente!&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_62” align=”aligncenter” width=”300” caption=”La preuve que l&#39;eau est transparente!”]&lt;a href=&quot;http://florian-express.info/wp-content/uploads/2008/12/poissons.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-62&quot; title=&quot;poissons&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/poissons-300x225.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Une navette de bus pour Bozburun ne va pas tarder a arriver, nous indique Dorothy, qui vient de questionner un habitant en utilisant le turc avec un leger accent anglais du plus bel effet! Nous prendons donc le dolmus car vu la frequentation de la route du coin, on est pas pret de faire nos 25 km en stop! On profite des magnifiques paysages, savant melange de criques et de plages, de rochers et de forets, agreemente de petits villages.&lt;/p&gt;
+
+&lt;p&gt;En arrivant a Bozburum, on passe devant une ribambelle de chantiers navals, plus ou moins en chantier, ou a l’abandon. On passe une premiere fois sur la croisette qui longe le port. Un nombre impressionnant de yachts turcs ont trouve refuge ici pour la basse saison.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_63” align=”aligncenter” width=”300” caption=”Oh mon bateau!”]&lt;a href=&quot;http://florian-express.info/wp-content/uploads/2008/12/bateau.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-63&quot; title=&quot;bateau&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/bateau-300x225.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;On s’arrete manger au Gordon’s Restaurant, tenu par Osman, sur le bon conseil de Dorothy. Au menu : des “mezzelis”, les hors d’oeuvres turcs, delicieux :&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;fromage de chevre cremeux a la sauge, a l&#39;ail et aux concombres&lt;/li&gt;
+	&lt;li&gt;concentre de tomates, oignons, ail et concombres haches, froids&lt;/li&gt;
+	&lt;li&gt;roule (pate croustillante) de fromage&lt;/li&gt;
+	&lt;li&gt;anchois frits&lt;/li&gt;
+	&lt;li&gt;salade de choux&lt;/li&gt;
+	&lt;li&gt;crudites&lt;/li&gt;
+	&lt;li&gt;galette de pomme de terre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Par hasard, “Kaptan Martin”, un rocambolesque francais de Zanzibar qui passe son temps entre la France pour travailler, et la Turquie pour vivre, passe par la. Il a fait le tour de la Mediterannee en bateau avec sa famille. Il est persuade que Bozburun est le plus bel endroit a vivre de toute cette mer. Dorothy nous avait parle d’un couple de francais mais j’avais compris que “Martine” serait une femme et non pas “Martin” prononce a l’anglaise… Il nous explique qu’on a eu de la chance que Dorothy etait accompagnee car elle a pour habitude de faire payer en nature ses services, du moins aux jeunes turcs du coin… Ca fait du bien d’arriver a un endroit ou les ragots se partagent aussi facilement, je me sens comme chez moi a Venterol.&lt;/p&gt;
+
+&lt;p&gt;Le temps d’une biere, Kaptan Martin nous indique une pension a cote de chez lui ainsi qu’un bon tuyau pour notre prochaine etape, l’ile de Kekova, avec une ville engloutie que l’on apercoit dans l’eau transparente.&lt;/p&gt;
+
+&lt;p&gt;On balade toute l’apres midi sur la croisette et vers les chantiers navals, c’est beau, c’est reposant, et ca donne envie de vivre au bord de l’eau, a passer sa vie a se construire petit a petit son bateau, puis quitter la tranquilite de ce village pour affronter la mer, ou alors quitter l’affront societal pour la quietude de la mer, je sais pas trop mais je croies que je suis un autre chemin : moi je galere les pieds sur terre (ca va tant qu’il n’y a pas de vague a l’ame) !&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_64” align=”aligncenter” width=”300” caption=”C&#39;est juste le debut, c&#39;est mieux encore apres!”]&lt;a href=&quot;http://florian-express.info/wp-content/uploads/2008/12/coucher_de_soleil.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-64&quot; title=&quot;coucher_de_soleil&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/12/coucher_de_soleil-300x225.jpg&quot; alt=&quot;C&#39;est juste le debut, apres c&#39;est plus beau encore!&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Apres l’inevitable coucher de soleil sur la croisette, a la hauteur de cette belle journee, on rejoint notre hote, Nahil, qui nous montre l’appartement 2 pieces, plus cuisine equipee et sejour, avec une grande terrasse (et oui, on change de standing!) dans lequel nous allons dormir. Il nous convie a une collation produite maison : miel aux amandes, confiture de coing, fromage de chevre, olives avec du pain. Devant de tels efforts d’hospitalite, on lui offre a notre tour une bouteille de Vinsobres, que Baptiste se trimballe depuis la France et qu’on voulait offrir a Anastasia, mais qu’on avait pas pu lui donner, puisqu’on n’a finalement pas dormi chez elle.&lt;/p&gt;
+
+&lt;p&gt;Kaptan Martin, sa femme et une couple de convives francais reviennent alors du restaurant. On est invites a venir boire un coup avec eux. On se retrouve a table, entre francais et avec Nahil au milieu, qui en profite pour offrir le vin qu’on lui a offert a Martin! On a une bonne discussion franchouillarde bien arrosee sur les themes classiques du voyage, de la politique, de nos conneries de jeunesse, le tout sur un ton libertaire tout a fait appreciable. Avec Baptiste, on reste assez discrets : on est plus habitues a tant de bagout!&lt;/p&gt;
+
+&lt;p&gt;Apres la petite gnole de fin, on va se coucher (avant que Kaptain Martin et sa femme ne s’endorment dans leur lits d’a cote), nous laissant finir la soiree a deux metres d’eux, comme ils ont l’habitude de le faire avec leur hotes!&lt;/p&gt;
+
+&lt;p&gt;Apres une nuit paisible, on profite une derniere fois de cette belle croisette et on dit adieu a nos compatriotes, qui nous proposent le petit dejeuner chez eux avec insistance, mais c’est deja consomme.&lt;/p&gt;
+
+&lt;p&gt;Ils nous donnent un pain juste sorti du four commun du village, offert par la femme de Nahil (decidement tout le monde refile les cadeaux des autres ici, ca doit etre une coutume locale!!!).&lt;/p&gt;
+
+&lt;p&gt;Kaptan Martin nous amene a la sortie du village en voiture et nous aide a partir en stop en aranguant en turc les quelques voitures de passage. Il nous faudra attendre le bus pour pouvoir revenir a la grande ville…  On part heureux, quel bel endroit, merci a Kaptan Martin et sa femme, c’est beau les gens qui se nourrissent de differentes cultures : ici allier l’impertinence, l’elegance et le charme francais avec la tolerance, l’hospitalite et la gentillesse turque. Merci beaucoup!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>La cote de turquoise, acte 1</title>
+    <link href="http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-1/"/>
+    <updated>2008-11-27T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-1</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Pour commencer il me faut reparler du fameux standing des lignes de bus turques : deja leurs nombre de lignes est incroyable (toutes les villes sont interconnectees), les bus super modernes et surs, et le service de reservation est hyper complexe et entierement informatise (un site Internet avec une applet java qui gere les emplacements par type de bus, et qui met en place des navettes de services entre les gares routieres et les centre villes, j’entrerai volontiers dans les details techniques mais je vais perdre des lecteurs, alors juste : c’est le top! ). Mais aussi, il y a les petits plus qui font la difference : d’abord un subtil deodorant parfum patchouli est diffuse sur la ventilation de la climatisation avant le depart, ensuite, apres le verre d’eau d’accueil et la petite colation, on vous file une petite serviette humide citronnee. Jusqu’ici, c’est appreciable, mais le petit plus turc consiste a un dernier passage du gentilhomme de la compagnie de bus, qui vous propose un peu d’eau de cologne pour se rafraichir, se laver et se parfumer! Si les trajets ne duraient pas au moins 6h en moyenne, ces voyages en bus seraient anthologiques!&lt;/p&gt;
+
+&lt;p&gt;Apres un transit a Mamaris, ville balneaire de base, nous prenons le chemin de Datca, ville situee sur une presqu ile declaree site protege, a la nature intacte et a la mer turquoise. En effet, c’est magnifique, mais helas pour nous un peu mort… A la fin de la presqu ile se trouve un site antique grec, Knidos, que nous aurions aime acceder, mais qui n’est plus desservi en basse saison, ni en dolmus (minibus turc qui ne decolle qu’une fois plein), ni en bateau (les poissons doivent hiberner en hiver, car aucun pecheur ne voulait nous y amener…). On decide de dormir une nuit sur place : on est fatigues, il fait beau, la nature est magnifique et le lendemain, on pourra tenter le stop pour la presqu ile de Bozburun a cote. On s’installe dans un hotel tout neuf, tenu par des chypriotes.On va faire un tour en ville et on a la chance d’assister au record du monde (certifie Guiness book of records) de cassage de briques avec les coudes!! En effet, le turc possedant l’ancien record, veut s’assurer une gloire encore plus grande, alors il s’abime les coudes encore une fois pour la posterite, ils sont deux (le turc et son challenger) a se faire une rangee colossale de 20 briques a casser. Pour finir ils cassent une tour de cette fois 50 briques encore plus dures et montent pour se faire sur une petite plateforme en hauteur, et s’assurent a tour de role en encerclant leur rival de leur ceinture afin d’eviter une chute fatale, c’est beau le sport!&lt;/p&gt;
+
+&lt;p&gt;Cet instant historique nous mettant en appetit, nous revenons voir nos amis chypriotes qui nous invite a leur table pour manger des keftas speciales (cuisinees comme on sait le faire a Inegol) excellentes. Un autre chypriote, ami des proprietaires, debarque pendant que nous finissons de manger. Il est grand, la cinquantaine les cheveux mi longs gommines et coiffes en arriere, une cicatrice traverse tout le cote gauche de son visage verticalement pour s’arreter a l’oeil, il a peut etre un oeil de verre, mais nous preferons pas trop lui en demander… Il raconte qu’il vient voir ses amis expatries et qu’il compte visiter les jeunes prostituees russes du coins. Tout le monde rigole d’un rire bien gras, on essaye de suivre, mais pas sur qu’on soit credibles! Enfin, il nous relate les mots de son pere, qui ont fait son education : “Si tu veux devenir riche dans la vie, tu as 3 possibilites : deviens proxenete, joues aux courses de chevaux ou ouvre un casino”. Lui meme choisit l’option course de chevaux, perdit tout son argent, puis comme ses amis hotes, decida d’ouvrir un petit hotel pour sa retraite. Comme quoi, il n’y a pas d’age pour tuer le pere, comme dirait Sigmund!! On finit par parler de l’histoire de Chypre puis au dodo!&lt;/p&gt;
+
+&lt;p&gt;Apres une nuit de repos, on repart en stop, Datca nous a repose, allons voir en face si c’est aussi beau et aussi fecond en aventure!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Pamukkale, première visite turcistique</title>
+    <link href="http://localhost:4000/trucsperso/pamukkale-premiere-visite-turcistique/"/>
+    <updated>2008-11-19T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/pamukkale-premiere-visite-turcistique</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Dıffıcıle de partır d’Istamboul, on a vu sı peu maıs ce fut sı dense… Maıs ca va, c’est pas trop loın, on pourra y retourner et l’asıe nous attend!&lt;/p&gt;
+
+&lt;p&gt;C’est notre premıer bus de nuıt turc, grand standıng : on sert a boıre et a manger comme dans les avıons, c’est juste bızarre de se faıre reveıller en pleıne nuıt a chaque arret pour se voır proposer une boısson!&lt;/p&gt;
+
+&lt;p&gt;On arrıve a &lt;a href=&quot;http://fr.wikipedia.org/wiki/Pamukkale&quot; target=&quot;_blank&quot;&gt;Pamukkale&lt;/a&gt; (ca veut dıre chateau de coton en turc, car la montagne est couverte de calcaıre, on dıraı de la neıge, sauf que ca fond qu’au contact du vınaıgre), vıllage tourısque, maıs en basse saıson, ıl n’y a personne. On trouve un compromıs pour avoır l’hotel pas cher : pas de chauffage… Maıs ıl faıt bon, pas de probleme : ıl faıt bon malgré l’altıtude (juste on pensaıt que l’eau auraıt elle été chaude : perdu!)&lt;/p&gt;
+
+&lt;p&gt;On vısıte les vasques de calcaıres : c’est jolı, maıs déja plus d’eau, ıls ont du fermer le robınet apres la saıson. De plus bıen que surprennantes, ces vasques sont plutot petıtes.. Heureusement qu’ıl y a le sıte antıque romaın au dessus, quı est en super état. Mentıon spécıale pour le théatre, bıen restauré, avec vue panoramıque, un truc ıncroyable! Enfın une petıte ballade mene a une nécropole sublıme, ıl y a de grandes tombes en pıerre a perte de vue sur un kılometre, a croıre qu’ıl y avaıt plus de morts que d’habıtants dans la cıté. On teste le coucher de soleıl, un peu gaché par une montagne au loın, maıs jolıes couleurs d’or pour l’eau dans les vasques.&lt;/p&gt;
+
+&lt;p&gt;On teste le café (le lıeu) turc du coın : rustıque avec petıt poele en boıs quı chauffe tout le monde, ambıance jeux de carte et dégustatıon de thé turc a prıx sympa : 12 centımes d’euros. Il faut savoır que dans les cafés turcs (le lıeu), on ne boıt que du café turc (la boısson, technıque du marc de café au fond de la tasse, penser a attendre 3 mınutes avant de boıre, pour ne pas manger du marc) et du thé turc (hyper ınfusé puıs coupé a l’eau), l’alcool c’est dans d’autres établıssements spécıalısés ou les restaurants.&lt;/p&gt;
+
+&lt;p&gt;On repart tot le lendemaın, maıs on a toujours le meme probleme : pas de reveıl… On comptaıt faıre appel a la réceptıon de l’hotel, hélas ıl n’y a que la femme du gérant et ses 2 fılles (15 ans et 8 ans, a vue d’oeıl) quı ne parlent pas un mot de langues étrangere. Pas de problemes, c’est l’heure de gloıre du mıme Florıan. Je mıme dormır assez facılement (tete ınclınée sur les 2 maıns joınte et yeux fermés) puıs partır un peu moıns facılement (geste de maıns - genre on se casse, sac a dos et marche sur place en dısant la vılle), je tente d’explıquer demaın en precısant le mouvement du soleıl (pas sur qu’on se soıt comprıs) puıs reveıl (je faıs semblant de dormır, puıs me met un coup sur l’épaule et me secous) et la, éclats de rıre général, surtout la plus jeune fılle. Je retente le mıme d’autres facons, sans autres succés que comıque. A la fın, la mere faıt comme sı elle m’avaıt comprıs et me laısse dubıtatıf quand elle me repete ınlassablement, quoı que je fasse “yes tomorrow, no problem”, sans me demander l’heure du réveıl…&lt;/p&gt;
+
+&lt;p&gt;Plan B : demander au monsıeur de l’agence de bus quı parle anglaıs la traductıon en turc de “Pouvez vous nous réveıller a 7 heures s’ıl vous plaıt” au cas ou vous en aurıez besoın, c’est “saat yedi de kaldırırmısınız lütfen”. Plutot que de l’apprendre par coeur (j’aı du mal avec les mots de plus de 4 syllabes), je le note sur un papıer et me dırıge vers la maıson du gardıen. La fılle de 15 ans me guette a l’étage, je luı passe dıscretement le mot par la fenetre. Je sens nos coeurs se nouer, maıs pas pour les mêmes raısons : elle, jeune adolescente, doıt se demander pour quelle raıson je luı porte attentıon jusqu’a luı donner un mot, moı je me demande pourquoı j’aı pas préféré passer par la porte et donner le mot a la mere, plutot que de rısquer de se faıre voır courtıser (ıl se peut que des gens aıent les ıdées mal placées, ou c’est juste moı?) une jeune turque… En tout cas, ca se passe bıen, meme sı elle avaıt l’aır un peu décue, la jeune demoıselle…&lt;/p&gt;
+
+&lt;p&gt;On est bıen réveıllés a l’heure, apres une bonne nuıt de sommeıl reposante (le bon aır de montagne aıdant), en route pour la mer au sud de la Turquıe! Nous allons essayer de profıter des dernıers beaux jours en bord de mer!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Ich bin ein Stambouliote</title>
+    <link href="http://localhost:4000/trucsperso/ich-bin-ein-stambouliote/"/>
+    <updated>2008-11-14T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/ich-bin-ein-stambouliote</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Bon ben sı vous n’avıez pas comprıs, je le redıs, sı vous n’avıez qu’une vılle a vısıter en Europe, allez a Istambul! Je suıs catégorıque, c’est au top, pour mılle et une raısons!&lt;/p&gt;
+
+&lt;p&gt;Voıcı juste une rapıde énumératıon non exaustıve de ce qu’on a vu et quı nous est arrıvé, pour vous mettre l’eau a la bouche :&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Dans le palaıs Topkapı, le palaıs des Sultans : vısıte de la plus grande collectıon de bıjous du monde, le plus grand harem du monde (n&#39;y allez pas, c&#39;est une arnaque : les femmes sont mortes depuıs 5 sıecles), on a vu des relıques du prophete Mohamed : une des ses dents, des poıls de sa barbe, son épée en or, sa tunıque, une lecture en dırect du Coran par un ımam, traduıte sımultanéement en 4 langues&lt;/li&gt;
+	&lt;li&gt;La grand mosquée bleue et ses 6 mınarets : pour l&#39;appel a la prıere, les centaınes de mosquées de la vılle se font echo, c&#39;est vraıment mystıque&lt;/li&gt;
+	&lt;li&gt;L&#39;ımposante églıse de Saınte Sagesse (qu&#39;on appele par erreur Saınte Sophıe alors qu&#39;elle n&#39;est dédıée a aucun seıns) : transformée en mosquée, puıs en musée (bıentot en dıscotheque, héhéhé). Ce fut la plus grande églıse du monde avant la constructıon de la cathédrale de Rome&lt;/li&gt;
+	&lt;li&gt;Transports en communs unıques a 70 cents : en bateaux pour rejoındre les dıfferentes rıves!! un tramway  du 19 ıeme quı marche encore&lt;/li&gt;
+	&lt;li&gt;Le plus grand Bazaar couvert du monde, ıl faut le voır pour le croıre&lt;/li&gt;
+	&lt;li&gt;Les batıments de tous styles et de toutes les époques (Hausmanıens, Art Nouveau, Ottomans, facades boıs, remparts antıques ou moyen ageuses) &lt;/li&gt;
+	&lt;li&gt;Hamman du 14 ıeme sıecle fonctıonnels, tout en marbre avec chambre de repos personnelle mıse a dısposıtıon&lt;/li&gt;
+	&lt;li&gt;Concert d&#39;un groupe de Neo Metal Turc au Crab Café (pas mal), concert acoustıque de chansons d&#39;amour orıentales&lt;/li&gt;
+	&lt;li&gt;Repas a 1 euros le plat en centre vılle moderne, a coté des restos chıcs ınnabordables&lt;/li&gt;
+	&lt;li&gt;Achat de contrefacons orıgınales dıxıt le vendeur (jeans Levıs a 7 euros)&lt;/li&gt;
+	&lt;li&gt;Bar a narguılés a tourıstes tres anımé ou j&#39;aı pu faıre agence matrımonıale entre un Japonaıs bouddhıste expatrıé a Istambul, et une serveuse Bolıvıano-Amerıcaıne&lt;/li&gt;
+	&lt;li&gt;Rabatteurs pour tous types de magasıns quı on un bagout ıntewrnatıonal ıncroyable, quı savent faıre venır le clıent. La plus belle phrase pour nous amener a un restaurant étaıt &quot;je te garderaıs pour toujours dans mon coeur&quot;!!&lt;/li&gt;
+	&lt;li&gt;Bazars a épıces, bazars aux oıseaux et aux poıssons d&#39;aquarıum&lt;/li&gt;
+	&lt;li&gt;Vısıte de cordonnıers authentıques, travaıllant dans l&#39;odeur asphıxıante et narcotıque de la colle. Ils reparent gratuıtement la ceınture de Baptıste, car cela leur a faıt plaısır qu&#39;on les trouve dans leur quartıer pourrı. Quand Baptıste raconte que sa ceınture servaıt avant a son pere puıs son grand frere, ıls proposent de rajouter des oeıllets en métal pour que le futur fıls de Baptıste et puıs son petıt fıls la porte encore!&lt;/li&gt;
+	&lt;li&gt;Coucher de soleıl, avec paysage doré, avec mınarets et coupoles a perte de vue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et encore trop pleıns de choses, maıs honnetement, on a vu un petıt dıxıeme de la vılle, maıs je suıs deja amoureux, a tres bıentot Istambul, tu m’as envouté, je te revaudraıs ca!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Le train train non quotidien</title>
+    <link href="http://localhost:4000/trucsperso/le-train-train-non-quotidien/"/>
+    <updated>2008-11-12T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/le-train-train-non-quotidien</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;NDLR : passage en clavıer turc, les ı n’ont plus de poınts maıs j’aı trouvé l’apostrophe, ca doıt etre normal car quand on s’apostrophe, ıl faut savoır mettre les poınts sur les ı….. (ca commence bıen…)&lt;/p&gt;
+
+&lt;p&gt;Ca valaıt bien la peine d’accelerer la narratıon pour ne plus rıen raconter pendant quelques jours! Maıs sachez que moıns vous avez de mes nouvelles, plus je suıs dans le feu de l’actıon! Et quelle actıon! Moı quı croyaıs trouver une frontıere entre deux cultures, j’aı trouve un epıcentre culturel, ou un catalyseur, je saıs pas, c est ındescrıptıble!! Istambul c’est la force tranquılle. Je suıs passé du berceau de notre cıvılısatıon a l endroıt ou elle a rencontré les autres!&lt;/p&gt;
+
+&lt;p&gt;Maıs procédons par étapes, d’abord, ıl y avaıt ce fameux trajet en traın : nous avons la surprıse de nous trouver dans un traın remplı a ras bord : toutes les places sont prıses maıs aussı tous les autres espaces (couloırs, places pour les baggages, j’aı pas vu le toıt du traın maıs j’ımagıne que c’étaıt pareıl). Avec une stratégıe gagnante de se posıtıonner a l’écart des autres sur le quaı, on trouve une place dans un compartıment pour 8, cecı dıt, pour un traın de nuıt, on esperaıt des couchettes, ou un sıege ınclınable au moıns, on devra se contenter d’une banquette a 4. Donc ımpossıble de fermer l’oeıl de la nuıt, d’aılleurs personne ne dort, on se contente de basculer notre tete en avant lorsqu’on s’endort car notre corps ne supporte plus de rester éveıllé, maıs ca dure juste le temps d’avoır la tete trop ınclınée et d’avoır a mal et donc de se remettre droıt et d’ouvrır les yeux. Ca me faısaıt déja sourıre de voır quelqu’un s’endormır dans les transports en commun, maıs alors a 8 dans un compartıment de traın pendant toute une nuıt, c’est quelque peu bızarre… Certaıns vıeux dans le traın ont la solutıon contre l’ınsomnıe : l’ouzo! Maıs ıls fınıssent par etre trop bourrés et a s’engueuler avec toutes les fılles du wagon, heureusement qu’on comprend rıen, car je pense qu’on seraıt choqués vu la vırulence des débats, et les gros éclats de rıre accompagnant certaınes réplıques…&lt;/p&gt;
+
+&lt;p&gt;Bref on arrıve a Tessalonıque au petıt matın, completement ensuqués, on a que 15 mınutes pour notre correspondance vers Istambul, et bıensur on n’a pas notre bıllet et la queue un guıchet est longue. Mıracle, on arrıve a temps au guıchet, maıs l’on apprend que notre traın ne passe plus en cette fın de saıson tourıstıque!&lt;/p&gt;
+
+&lt;p&gt;Malıns comme on est, on prend le prochaın traın jusqu’a la frontıere, meme sı la femme du guıchet nous prevıent que la correspondance pour Istambul part de toute facon de Tessalonıque et que ce soır. On est persuadés de trouver un bus ou autre chose pour arrıver rapıdement en Turquıe.&lt;/p&gt;
+
+&lt;p&gt;Et bıen, on s’est plantés. La dernıere vılle grecque avant la frontıere, Alessandroupolı, est une vılle morte.&lt;/p&gt;
+
+&lt;p&gt;Il nous reste 14 heures d’attente, ıl y a un bar, bon alors on va attendre…&lt;/p&gt;
+
+&lt;p&gt;On lıt tous les journaux qu’on a déja lu 4 foıs (l’édıtıon spécıale de “Le monde” pour l’électıon du nouveau présıdent d’un petıt pays a l’hıstoıre courte, unıquement bellıqueuse et jamaıs culturelle… ok je suıs de mauvaıse foı), on boıt des bıeres, on faıt le tour du centre vılle, et l’on regarde la télévısıon grecque : au menu match de foot espagnol puıs résumé champıonnat de foot espagnol, puıs match de foot anglaıs puıs résumé champıonnat de foot anglaıs, est en prıme tıme : match de foot grec puıs résumé champıonnat de foot grec…&lt;/p&gt;
+
+&lt;p&gt;Mon dıeu, plus que 4 heures d’attente, en plus ıl faıt nuıt et froıd, et le bar a fermé..&lt;/p&gt;
+
+&lt;p&gt;On va a la gare, quı est trop petıte pour avoır une salle d’attente, cependant ıl y a une salle chauffée avec une télé, réservée aux chemınots. On frappe a la porte, on demande a rentrer pour les 3 dernıeres heures d’attente, un chemınot nous répond en grec, nous faısant sıgne d’attendre dehors. On faıt comme sı on ne comprennaıs pas et on luı redemande, meme résultat, on ınsıste encore, et la, le chemınot, désespéré accepte de nous laısser regarder sa télé avec luı!! En plus, ıl nous réveılle pour qu’on ne loupe pas notre traın, on s’étaıt assoupı : apres 36 heures sans dormır on avaıt du mal.&lt;/p&gt;
+
+&lt;p&gt;On prend enfın le traın pour Istambul : un traın turc a couchettes confortables, draps neufs, par compartıments de deux!!! Quel standıng!! Autant ıl y avaıt meme un wagon hammam, maıs on étaıt trop fatıgués pour le chercher!! Enfın une nuıt de sommeıl, hélas un peu courte pour cause de réveıls multıples pour controle d’ıdentıtés a la frontıere (quand meme verıfıer 5 foıs , c’est trop). Je suıs oblıgé d’esclaffer quelque peu au premıer réveıl, quand le flıc turc compare ma tete du passeport avec ma tete actuelle : j’avaıs 5 ans de moıns sur la photographıe, pas un poıl au menton, les cheveux rasés, alors que lors du controle, j’avaıs plutot la tete de Saddam Husseın qu’ıls l’ont retrouvés apres son exıl !!&lt;/p&gt;
+
+&lt;p&gt;Et voıla enfın Istambul se propose a nos yeux, et bızaremment, moı quı m’attendaıt a un Marrakesh en plus grand et plus bordelıque, je suıs surprıs de la sérénıté ambıente, de la qualıté des ınfrastrutures (a premıere vue) et de cette atmosphere plutot tranquılle. Peut etre c’est normal un dımanche a 8h du matın, me dırez vous!&lt;/p&gt;
+
+&lt;p&gt;En tout cas, c’est bıen plus calme qu’Athenes et bıen plus cosmopolıte!&lt;/p&gt;
+
+&lt;p&gt;J’avaıs commencé a ecrıre sur Istambul quand la connexıon Internet a sautée et je vıens de perdre 30 mınutes d’écrıture… grrr… vıve le stylo bıc. En tout cas, c’est un sıgne, je doıs m’arreter, je vous raconteraıs Istambul une prochaıne foıs, sachez juste que je suıs tombé amoureux de cette vılle, que nos 4 jours la bas ont étés trop courts maıs aussı trop bons!! Quel charme, quelle beauté, quelle poésıe!!&lt;/p&gt;
+
+&lt;p&gt;A tres bıentot pour la suıte et mercı de vos retours encourageants!&lt;/p&gt;
+
+&lt;p&gt;Portez vous bıen!!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>En route, ou plutôt en galère vers Athènes !</title>
+    <link href="http://localhost:4000/trucsperso/en-route-ou-plutot-en-galere-vers-athenes/"/>
+    <updated>2008-11-07T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/en-route-ou-plutot-en-galere-vers-athenes</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Bon, on va un peu accelerer la naration, si je veux rattraper le temps et arriver au jour d aujourd hui!&lt;/p&gt;
+
+&lt;p&gt;Donc on part vers Naflios, censee etre l une des plus belles villes de Grece, toujours en stop, mais cela devient difficile… Dans les petits bleds, ca va, mais globalement, on sent que les gens sont surpris et pas trop habitues.. Cependant ils ont toujours un petit signe a nous faire, ce qui est agreable par rapport a la France ou les gens font semblant de ne pas nous voir…&lt;/p&gt;
+
+&lt;p&gt;On s arrete a Koroni, ville cotiere tres belle, ca devient une habitude!! Les paysages a base d oliviers sont superbes, on voit cependant les degats de l enorme feu qui a decime le Peloponnese, il y a quelques etes (ou l ete dernier, je ne sais plus).&lt;/p&gt;
+
+&lt;p&gt;Puis Naflios, avec un enorme fort, et un centre ville tres bien batit. On aura meme l occasion de se baigner (comme vous le savez deja si vous etes un lecteur averti). On effet la ville est tres belle, mais fait un peu cote d azur grecque, au niveau de l ambiance.&lt;/p&gt;
+
+&lt;p&gt;On part a Epidavros, voir le plus vieux theatre antique du monde! Il est superbement preserve, et peu contenir 14000 personnes (bientot la video, inch allah). On decouvre un vieux site archeologique avec un stade que monsieur Platon en personne a decrit dans l un de ses ouvrages (colle pour Julien : lequel de ses ouvrages?? Faut bien que tu revises un peu!!)&lt;/p&gt;
+
+&lt;p&gt;Puis les galeres en stop continuent, pas de possibilite d aller a Sparte, mince alors moi qui voulait voir en vrai la &lt;a href=&quot;http://fr.wikipedia.org/wiki/Bataille_des_Thermopyles_(-480)&quot; target=&quot;_blank&quot;&gt;bataille des Thermopyles&lt;/a&gt; (vous savez, ce film d extreme droite : 300, “This is Spartaaaaaaa!!!!!”)&lt;/p&gt;
+
+&lt;p&gt;On prend un bus pour se rapprocher d Athenes, direction Tripoli. Mauvais choix, ville moderne de merde, que 3 hotels en centre ville a 60 euros la chambre. On hesite a dormir dans une eglise orthodoxe, mais on pensait que cela pourrait constituer un sacrilege, alors on negocie une chambre de merde a 50 euros (le budget va exploser, on sera tres bientot de retour!!)&lt;/p&gt;
+
+&lt;p&gt;On oublie ce passage difficile, et l on repart vers Athenes, avec halte a Corinthe, pour voir le canal creuse a la main, qui permet aux bateau de traverser la Peloponnese. Helas, on loupe l arret (on maitrise toujours pas bien l alphabet grec..), mais bon, cela ne ressemblait pas a grand chose ce canal, et on a pu voyager frauduleusement jusqu a Athenes!!&lt;/p&gt;
+
+&lt;p&gt;Athenes, capitale polluee, bruyante et chaotique se devoile a nous. On en avait entendu pas trop de bien, mais c est plutot convivial, un melange de mediterannee, de bazar oriental, et de ville cosmopolite.&lt;/p&gt;
+
+&lt;p&gt;Notre plan &lt;a href=&quot;http://www.couchsurfing.com/?user_language=fr&quot; target=&quot;_blank&quot;&gt;Couch Surfing&lt;/a&gt; (merci Maryline, pour le plan!) tombe helas a l eau a la derniere minute : Anastasia, notre hote de fortune, recoit la visite de la famille de son colloc, adieu notre canape gratuit… On demande le quartier pour les hotels pas chers dans une boutique mi video club polonais, mi solarium-soins du corps (et oui, Athenes est etonnante et magique). On nous indique le quartier a prostituees et toxicomanes, et sans vergogne, on y va trouver une chambre a 10 euros, par loin du centre ville, un peu pourrie, mais avec cuisine collective, et locataires du monde entier. Le proprietaire est completement deconnecte de la realite, c est sympatique!&lt;/p&gt;
+
+&lt;p&gt;On voit tout de meme Anastisia un boire un coup, avec un rendez vous a 22h30 a une station de metro. Ne sachant pas trop a quoi elle ressemble, on accoste les filles de notre age qui trainent, qui sont toujours surprises, et meme souvent elles sourient! Faut dire qu on a pas trop le profil grec, ni la taille normale (on fait une tete de plus que tout le monde) : on est d un exotisme tape a l oeil! Ne vous inquietez, pas lectrices italiennes de notre coeur, on est restes de marbre aux appels des sirenes!&lt;/p&gt;
+
+&lt;p&gt;Avec 30 minutes de retard, une fille nous salue d un geste de la main (mais comment nous a t elle reconnue?), enfin nous rencontrons Anastisia! On mange une Pita Gyros offerte par la demoiselle, qui sort a peine du travail, peuchere, puis nous lui rendons la pareille en lui offrant un verre. On va dans un pub tres sympa musicalement, avec une cage pour accueillir des concerts (Anastasia nous explique que c est pour eviter les projectiles lances sur le groupe!). On discute jusqu a l heure du dernier metro, chouette personne, Anastiasia), puis on repart a notre hotel apres quelques sollicitations nocturnes de prostituees et toxicomanes..&lt;/p&gt;
+
+&lt;p&gt;Le lendemain visite de l acropole et de divers lieux antiques, on arrive pas a finir en une journee tellement il y en a! Le soir, on sort dans un quartier tres anime (place Psiri), on goute l alcool du coin, l eυnολο (gnole chaude avec du citron et autres epices) et l on va dans un bar conseille par Anastasia, avec une musique funk soul groove qui dechire! On part manger dans un endroit perdu, reserve aux grecs (pas d indications traduites en alphabet occidental, les meilleurs plans), le patron parle pas anglais, mais il nous sert une assiette des cotelettes de porcs, des frites, une salade de chou enorme, 2 bieres pour 10 euros, sans qu on ne demande rien, mais l offre nous parrait plus que correcte.&lt;/p&gt;
+
+&lt;p&gt;Enfin, aujourd hui (ouf, j y arrive), on visite encore l Athenes antique, puis l incroyable musee national archeologique (mon dieu comme c est beau), aussi trop grand pour tout voir..&lt;/p&gt;
+
+&lt;p&gt;Ce soir, train de nuit pour Thessalonique, puis correspondance pour Istambul (24h de train).&lt;/p&gt;
+
+&lt;p&gt;Adieu Grece pleine de grace et pleine de graisse (trop de Pitas Gyros grecques a 1 euro 50… ), et desole pour cette phrase pourrie, chers lecteurs.&lt;/p&gt;
+
+&lt;p&gt;Merci les grecs pour l accueil, vous etes d une gentillesse admirable, et d une tolerance folle,  c est formidable!&lt;/p&gt;
+
+&lt;p&gt;Et merci l histoire antique de nous avoir fait civilisation, que d enseignements a tirer de ses temps revolus, mais quel heritage!&lt;/p&gt;
+
+&lt;p&gt;Je finirais sur une citation de Platon, qui reflete sans doute bien mon ideal politique, et l ambiance grecque :&lt;/p&gt;
+
+&lt;p&gt;“L Homme qui ne commet pas d injustices, n a pas besoin de lois”&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Visite au centre du monde</title>
+    <link href="http://localhost:4000/trucsperso/visite-au-centre-du-monde/"/>
+    <updated>2008-11-06T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/visite-au-centre-du-monde</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;On pourrait croire qu il fait froid dans le Peloponnese (il pele oh pinaise) mais non, il fait entre 25 et 30 degres et un soleil eclatant, d ailleurs, j ai pu apprecier un bain en mer pas plus tard que ce matin a Naflios (desole de vous raconter ca alors que vous prennez sans doute l eau…)&lt;/p&gt;
+
+&lt;p&gt;En tout cas, apres les aventures olympiques, on est repartis en stop vers la premiere dent du Peloponnese et c etait le bon choix : apres une heure d attente, on se fait prendre par un mec completement bourre, mais qui parlait francais, c est deja ca! Au bout de 2 crissements de pneus dans les virages, il s arrete acheter une biere, puis propose de laisser le volant a Bat, on accepte volontiers. Il nous montre un barrage ou il a deja eu une etreinte avec une jeune demoiselle, on est ravi de l apprendre… Il nous trouve un truc pas cher pour dormir, mais on decide de continuer..
+On avance a petits pas de 20 km, mais ca marche, les prochains conducteurs sont moins trash (un vieux fermier, une professeur d italien, des entrepreneurs qui connaissent la crise,…). On rencontre aussi le sosie de Mel Gibson, avec une touche grecque, qui vient nous voir regulierement a notre point stop en motocycle, et qui essaye de nous rameuter des automobilistes, un peu perche le monsieur, mais drole. On finit par deux jeunes, un grec et un irakien, qui se sont connus en Angleterre (vive nous, la premiere generation transfrontaliere!!!) et qui sont en vacances. On se rend compte que le stop n est pas trop pratique : le jeune grec nous dit qu en 30 ans on est les premiers autostoppeurs qu il voit en Grece!&lt;/p&gt;
+
+&lt;p&gt;On prend du bon temps sur la plage puis ils nous laissent a Marathonpoli, une charmante ville portuaire ou l on s arretera dormir, apres avoir mange de delicieux poissons, et avoir abuse du rose a 2 euros le pichet!&lt;/p&gt;
+
+&lt;p&gt;Le lendemain, on voit Pylos, joli ville aussi mais deserte. On finit non sans mal a Methoni (le stop c est pas si facile que ca, finalement), ville presque a la pointe du premier doigt du Peloponnese, cote gauche. On s arrete dans une taverna (bistro-snack grec) on mange un bout en discutant avec 4 personnes incroyables : 2 grecs genre 60 ans, tres instruits parlant au moins 6 langues, un babacool autrichien et un anglais au nez casse expatries. Ils sont un peu emmeches a 15h30 mais on rigole bien.. On part visiter une cite fortifiee venitienne construite au bord de la mer (formidable) on revient a la tombee de la nuit a la taverna (apres un echec en auto-stop), nos comperes sont encore la, ils sont endurants!!&lt;/p&gt;
+
+&lt;p&gt;On prend une pita giros a 2 euros (kebab grec) puis on discute avec nos comperes de table, et on apprend que Methoni est le centre du monde. Eh oui, on a fini par le trouver!!&lt;/p&gt;
+
+&lt;p&gt;Du coup, ils comprennent pas pourquoi on fait ce tour du monde, alors que tout est a Methoni, que la Grece est le coeur de l humanite! La preuve, Chateaubriand, grand voyageur, est venu a Methoni et a dit : “j ai fait le tour du monde et c etait moins interressant que Methoni”.&lt;/p&gt;
+
+&lt;p&gt;C est vrai qu en nous cuisinant sur la raison de notre voyage, je n ai pu donner que des raisons  de base, comme l envie de voir par mes propres yeux d autres cultures (alors qu ils nous demontrent que tout vient de la culture grecque), en tout cas la raison n etait pas decouvrir le centre du monde, donc il faut continuer!!&lt;/p&gt;
+
+&lt;p&gt;On a des conversations tres interessantes sur les langues, la guerre et l origine de l Europe :  Zeus  en personne avait flashe sur une jolie fille, et lui proposait d aller gouter ensemble aux plaisir de la chair. La fille refusa, car sa condition d Homme lui empechait d envisager de faire cela avec un dieu. Zeus a sans douter kiffe cette pudeur toute a son honneur, et se changea en taureau afin de tout de meme arriver a ses fins (il perd pas le nord!). Il l emmena pres de Marseille (vous savez, Massilia, la deuxieme ville grecque, a l ouest du centre du monde) et ils ont fait des choses que seuls un dieu tranforme en taureau et une jeune fille grecque peuvent faire. Zeus, apparement content, lui offrit un vaste territoire autour du centre du monde qui portera son prenom : Europa !!&lt;/p&gt;
+
+&lt;p&gt;On ne peut que presager du bon d un etat cree suite a la fornication du taureau et d une grecque, aujourd hui je me sens vraiment europeen!! D ailleurs, si vous me croyez pas, regardez la piece de 2 euros grecque : on y trouve une femme montant un taureau!!&lt;/p&gt;
+
+&lt;p&gt;On finit nos discussions a minuit, bien bourres, nos comperes nous trouvent une terrasse d un restaurant ferme pour dormir (avec un robinet d eau disponible). On passe une nuit courte, avec attaque de moustiques et matinee fraiche et humide (on est au bord de la mer, normal).&lt;/p&gt;
+
+&lt;p&gt;On repart le lendemain, c est dur de quitter le centre du monde, mais je suis persuade d y retourner, et que mes comperes seront encore a la taverne, pour debattre autour d un rose.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Olympie (que de Marseille)</title>
+    <link href="http://localhost:4000/trucsperso/olympie-que-de-marseille/"/>
+    <updated>2008-11-05T00:00:00+03:00</updated>
+    <id>http://localhost:4000/trucsperso/olympie-que-de-marseille</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Pour l instant pas de bonne connexion, donc pas de photos disponibles, mais un jour viendra!!&lt;/p&gt;
+
+&lt;p&gt;Apres cette arrivee fracassante a Patras, nous prenons le train puis le bus pour Olympie, juste le temps de s apercevoir qu en Grece, on roule en 4X4 et en pick-up, on possede souvent un chauffe eau solaire (du simple reservoir peint en noir, au systeme a panneaux solaires), et l on cultive essentiellement de l olive (et c est rien de le dire).&lt;/p&gt;
+
+&lt;p&gt;On arrive de nuit, et on se rend compte que c est la fin (faim?) de saison touristique : les commercants sont moroses, la ville et ses infrastructures a touristes est morte.&lt;/p&gt;
+
+&lt;p&gt;Bat opte pour l auberge de jeunesse a 10 euros, je prefere dormir sous un olivier en montagne (quel radin je fais…). La nuit se passe bien mis a part les aboiements de chiens, qui m ont repere a l odeur, pourtant j etais parti loin (et j etais presque propre)…&lt;/p&gt;
+
+&lt;p&gt;Le lendemain, on part, en forme olympique (hum hum, un peu facile…), pour le site antique, et la quelle surprise : le site est enorme et je suis emu par tous ces vestiges des temps anciens, c est vraiment romantique : quelques morceaux de gigantesques colonnes trainent, il ne reste que des traces des fondations des batiments mais l on devine une architecture complexe et une cite riche. Des amas de caillous sont assembles methodologiquement afin de correspondre a leur emplacement d origine presume. Cela laisse un place importante a l imaginaire, et cela en devient touchant. Une petite notice explicative concise en grec et en anglais donne toutes les informations historiques necessaires pour aider encore un peu plus a cadrer notre imaginaire.&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_19” align=”aligncenter” width=”300” caption=”Olympie, les ruines”]&lt;a href=&quot;http://florian-express.info/wp-content/uploads/2008/11/olympie.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-19&quot; title=&quot;Olympie, les ruines&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/11/olympie-300x169.jpg&quot; alt=&quot;Olympie, les ruines&quot; width=&quot;300&quot; height=&quot;169&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Apres avoir vu le temple de Zeus, central mais completement detruit, sauf une colonne restauree immense, on arrive sur le stade. C est grand mais pas grandiose, et c est beau, c est sauvage, abandonne mais paisible. On decouvre de vieilles incriptions anciennement posees a cote de statues offertes aux dieux comme offrande pour pardonner les pechers des athtletes tricheurs. Ces incriptions relatent precisement les mefaits de ces vilains tricheurs, les nommant et les acclablant ainsi pour la posterite! Rien a voir avec l esprit des jeux olympiques actuels..&lt;/p&gt;
+
+&lt;p&gt;On decouvre aussi des salles de debats philosophiques et de rencontres, ainsi que les thermes (ou les lanceurs de javelots frottaient le dos des lanceurs de poids avec delectation, enfin desole, mon imagination est sans doute alteree par des vieux cliches…)&lt;/p&gt;
+
+&lt;p&gt;On finit par le musee archeologique, qui contient des reliques de tous les ages, et en particulier les restes de fresques des facades Nord et Sud du temple de Zeus, tout simplement exceptionnelles : l une raconte une bataille entre des centaures qui, invites a une fete, commencerent a abuser des jolies femmes presentes, et se firent corriger sur ordre d un Apollon central de toute beaute (j aurai bien aime lui frotter le dos dans la therme a ce dieu la!!!)  et l autre representant une fameuse course de chars dont la tragedie finale etait helas prophetise par l oracle : le pere donnait la main de sa fille a quiconque le battrait a la course de char (lui imbattu car possedant des chevaux de Poseidon) mais les perdants devaient accepter de mourrir. Helas un petit malin avait des chevaux de Zeus, qui bien entendu se deplacaient a la vitesse de l eclair. L oracle avait prophetise que le pere mourrait a cause de son beau fils, alors il pensait qu en battant tout les pretendants a la main de sa fille a la course aux chars, il allait s en tirer, comme s il pouvait echapper a son destin, nom de Zeus!!!&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_17” align=”aligncenter” width=”300” caption=”fresque du temple de Zeus, partie Apollon”]&lt;a href=&quot;http://florian-express.info/wp-content/uploads/2008/11/temple-zeus.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-17&quot; title=&quot;fresque du temple de Zeus, partie Apollon&quot; src=&quot;http://florian-express.info/wp-content/uploads/2008/11/temple-zeus-300x169.jpg&quot; alt=&quot;fresque du temple de Zeus, partie Apollon&quot; width=&quot;300&quot; height=&quot;169&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Bon, je suis pas tout a fait sur de mon interpretation de l histoire, mais elle est belle comme ca alors, de toute facon on n est plus a une inexactitude historique pret de nos jours, j assume mes eventuelles transgressions!&lt;/p&gt;
+
+&lt;p&gt;Aussi on retrouve representes les 12 travaux d Hercules, aussi jadis presents dans le temple et maintenant reconstitutes dans ce musee, mais je ne vous les relaterai point, je risque de me discrediter et de pondre le billet de blog le plus long de l histoire d Internet..&lt;/p&gt;
+
+&lt;p&gt;Donc pour en finir avec Olympie et son musee, on peut voir pas mal des statues grecques, qui sont magnifiques : a la fois sensuelles et justes, jamais pompeuses ou baroques, simplement touchantes.&lt;/p&gt;
+
+&lt;p&gt;Ouf j en ai fini de cette redaction marathon, si vous arrivez jusqu ici, vous avez gagne une medaille, ainsi qu un droit d acces aux thermes avec la ou les personnes de votre choix!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Début de voyage, destination Grèce</title>
+    <link href="http://localhost:4000/trucsperso/debut-voyage-destination-grece/"/>
+    <updated>2008-10-21T00:00:00+04:00</updated>
+    <id>http://localhost:4000/trucsperso/debut-voyage-destination-grece</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Bonjour a tous!&lt;/p&gt;
+
+&lt;p&gt;Comme vous pouvez le constater, ma prose ne contient pas d accents, ni d apostrophes, ceci etant du a un clavier cyrillique pas trop facile a utiliser… Je m excuse d avance de la difficulte de lecture…&lt;/p&gt;
+
+&lt;p&gt;Ceci dit, je voulais quand meme commencer a raconter le debut du voyage, a ce troisieme jour du periple, sans embrouilles (merci de tenir informee ma mere!!)&lt;/p&gt;
+
+&lt;p&gt;Nous sommes donc partis de Toulon en bateau, apres un accueil toujours aussi appreciable de notre ami Morad a Nice.
+Apres une nuit pluvieuse, passee a l arrache sur le ferry Grimaldi (Toulon - Rome) nous accostons les cotes romaines et apres une apres midi ferroviere, nous arrivons a notre premiere escale : Rome.&lt;/p&gt;
+
+&lt;p&gt;Quelle ville magnifique!! En plein centre, il suffit d un tour sur soi meme pour voir defiler 3000 ans d histoire, des ruines antiques aux batiments administratifs contemporains, un petit tour par la fontaine magique de Trevis, une pizza le temps d eviter la pluie torrientielle et une infiltration dans un musee par une porte derobee (on se fait virer apres 15 minutes de visite, faut dire que c etait louche un musee ouvert de nuit d une telle classe) pour apprecier le charme enorme de cette ville.
+Helas, un constat frustant, une nuit ne sera pas suffisante pour apprecier tant de belles choses… Mais deja la prochaine etapes se dessine : a 7h20, le train d Ancone ne nous attendra pas, et il faudra se reveiller… et la, premier oubli, sans telephone, ni montre, ni reveil, on y arrivera pas… on achete donc un reveil a 14 euros dans un bazar (oui, on s est fait avoir) avec une pile, dont on constate rapidement la deficience.. on achete des piles a 5 euros (oui, on s est fait avoir aussi) mais nouvel echec, en fait le reveil marche pas bien (oui, on s est vraiment fait avoir…) donc plan B : je bois une biere avant de dormir et on regarde l heure sur notre appareil photo regulierement pendant la nuit, l envie de pisser assurant un reveil regulier toutes les heures a partir de 4h!!&lt;/p&gt;
+
+&lt;p&gt;On arrive a decoller a temps, on prend le train, et malgre son retard d une heure, on arrive a embarquer pour Patras en Grece!! A bord de SuperFastFerries, un ferry deluxe!! Je dors, “berce” par le son du disco mobile grec (au moins, j etais sur la moquette du bar disco..) et Baptiste choisi la cage d escalier…&lt;/p&gt;
+
+&lt;p&gt;Arrivee le matin a 11h30 a Patras, et la, changement d ambiance : franchement la Grece, a premiere vue, c est un doux melange entre le folklore roumain, et le tulmulte maghrebin, bref : on se sent comme chez nous!!!&lt;/p&gt;
+
+&lt;p&gt;On hallucine sur la presence de presumes tsiganes, qui par dixaine essayent de s incruster dans le bateau..
+On apprendra plus tard qu il s agit de refugies afghans (on se disait aussi que certains tsiganes aux yeux brides, c etait bizarre..) et qu ils sont au moins 4000 selon le chef de gare. On discute avec un afghan, arrive en grece il y a plus de 8 ans, qui nous dit qu ils sont maltraites en grece, qu ils ne trouvent ni logement ni travail qu ils ne peuvent pas traverser l europe alors ils essayent de s accrocher sous les camions qui embarquent. Il nous parle des maltraitances des policiers grecs et des ratonnades consenties par les policiers locaux.. Au contraire, il nous parle de l accueil solidaire iranien et turc (pays qu il faut traverser pour arriver d afghanistan en grece) et nous souhaite un bon voyage. Voila donc esquissees des frontieres plus realistes des pays de l axe du mal…&lt;/p&gt;
+
+&lt;p&gt;Sur ces bonnes paroles, a bientot pour des nouvelles olympiques!!!&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  
+</feed>

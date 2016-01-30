@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Musique
+  url: /musique/
+  excerpt: "des clips et du bon son de bons soirs"
+  image: categorie-musique.jpg
+
+- title: Vidéos
+  url: /videos/
+  excerpt: "courts métrages et découvertes vidéos"
+  image: categorie-videos.jpg
+
+- title: "Trucs perso"
+  url: /trucsperso/
+  excerpt: "Mes écrits, photos et récits d'aventures"
+  image: categorie-ecrits.jpg

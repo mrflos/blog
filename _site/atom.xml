@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Florian-Express</title>
-  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.1</generator>
-    <icon>https://mrflos.github.io/blog/apple-touch-icon-precomposed.png</icon>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.0.0</generator>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
   <subtitle>infos partagées</subtitle>
-  <link href="https://mrflos.github.io/blog/atom.xml" rel="self"/>
-  <link href="https://mrflos.github.io/blog/" rel="alternate" type="text/html"/>
-  <updated>2016-01-31T01:29:09+03:00</updated>
-  <id>https://mrflos.github.io/blog/</id>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2016-01-31T02:05:01+03:00</updated>
+  <id>http://localhost:4000/</id>
   <author>
     <name>mrflos</name>
-    <uri>https://mrflos.github.io/blog/</uri>
+    <uri>http://localhost:4000/</uri>
     <email>mrflos@gmail.com</email>
   </author>
 
   
   <entry>
     <title>Le Hérisson dans le Brouillard</title>
-    <link href="https://mrflos.github.io/blog/le-herisson-dans-le-brouillard-1975/"/>
+    <link href="http://localhost:4000/videos/le-herisson-dans-le-brouillard-1975/"/>
     <updated>2014-05-05T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/le-herisson-dans-le-brouillard-1975</id>
+    <id>http://localhost:4000/videos/le-herisson-dans-le-brouillard-1975</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;https://mrflos.github.io/blog/images/featured-herisson-dans-le-brouillard.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/featured-herisson-dans-le-brouillard.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;Le Hérisson dans le brouillard (en russe : Ёжик в тумане, Iojik v toumané) est un court métrage d’animation soviétique réalisé en 1975 par Youri Norstein, produit au studio Soyouzmoultfilm à Moscou. Le scénario a été écrit par Sergueï Lvovitch Kozlov qui a publié en russe un recueil de contes homonyme.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/sbW2wDklJ_o&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -39,16 +39,16 @@
   
   <entry>
     <title>TPB AFK: The Pirate Bay Away from Keyboard</title>
-    <link href="https://mrflos.github.io/blog/thepiratebayafk/"/>
+    <link href="http://localhost:4000/videos/thepiratebayafk/"/>
     <updated>2013-04-13T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/thepiratebayafk</id>
+    <id>http://localhost:4000/videos/thepiratebayafk</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;https://mrflos.github.io/blog/images/featured-pirate-bay.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/featured-pirate-bay.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;L’histoire du procès des trois énergumènes qui ont créé un réseau de partage de fichiers peer 2 peer le plus grand du monde : un brillant hacker toxicomane, un activiste de la culture libre et un technophile tendance facho!&lt;/p&gt;
 
 &lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/-SXMRuoA4-I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -58,16 +58,16 @@
   
   <entry>
     <title>Histoire d&amp;rsquo;amour et de bouteille</title>
-    <link href="https://mrflos.github.io/blog/histoire-damour-et-de-bouteille/"/>
+    <link href="http://localhost:4000/videos/histoire-damour-et-de-bouteille/"/>
     <updated>2013-04-11T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/histoire-damour-et-de-bouteille</id>
+    <id>http://localhost:4000/videos/histoire-damour-et-de-bouteille</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;https://mrflos.github.io/blog/images/featured-amour-bouteille.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/featured-amour-bouteille.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;Les relations à distance, ca finit par demander une vraie rencontre. La preuve en vidéo !&lt;/p&gt;
 &lt;iframe src=&quot;https://www.youtube.com/embed/5mVEapKnS1c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -76,16 +76,16 @@
   
   <entry>
     <title>Music from Saharan Cellphones: Volume 2</title>
-    <link href="https://mrflos.github.io/blog/music-from-saharan-cellphones-volume-2/"/>
+    <link href="http://localhost:4000/musique/music-from-saharan-cellphones-volume-2/"/>
     <updated>2013-03-02T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/music-from-saharan-cellphones-volume-2</id>
+    <id>http://localhost:4000/musique/music-from-saharan-cellphones-volume-2</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;https://mrflos.github.io/blog/images/featured-saharan-cellphones.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/featured-saharan-cellphones.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;De la musique passée de téléphone portable à téléphone portable entre nomades du Sahara.&lt;/p&gt;
 &lt;iframe style=&quot;position: relative; display: block; width: 400px; height: 100px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/v=2/album=246458167/size=venti/bgcol=FFFFFF/linkcol=4285BB/&quot; height=&quot;100&quot; width=&quot;400&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
@@ -94,16 +94,16 @@
   
   <entry>
     <title>Georges Brassens en russe</title>
-    <link href="https://mrflos.github.io/blog/georges-brassens-en-russe/"/>
+    <link href="http://localhost:4000/musique/georges-brassens-en-russe/"/>
     <updated>2012-10-30T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/georges-brassens-en-russe</id>
+    <id>http://localhost:4000/musique/georges-brassens-en-russe</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;https://mrflos.github.io/blog/images/featured-georges-brassens.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/featured-georges-brassens.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;Georges Brassens a toujours eu une place prépondérante dans mon existence : c’est mon phare.&lt;/p&gt;
 
 &lt;p&gt;Il m’indique la bonne direction, je trouve réconfort dans ses paroles, c’est aussi le père spirituel moustachu idéal qu’on aimerait tous avoir (enfin moi c’est sûr), un gars simple, un peu tendance feignasse du terroir sud de France, avec un bon sens de l’humour, de l’auto-dérision, qui n’aime pas les cul bénis, les “forces” de l’ordre, les braves gens, et qui aime les femmes, les amis, la dignité des gens honnêtes, le “bon dieu”, les bons mots, la vie quoi!&lt;/p&gt;
@@ -134,16 +134,16 @@
   
   <entry>
     <title>Vladimir Vyssotski La Fin Du Bal</title>
-    <link href="https://mrflos.github.io/blog/vladimir-vyssotski-la-fin-du-bal/"/>
+    <link href="http://localhost:4000/musique/vladimir-vyssotski-la-fin-du-bal/"/>
     <updated>2012-10-19T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/vladimir-vyssotski-la-fin-du-bal</id>
+    <id>http://localhost:4000/musique/vladimir-vyssotski-la-fin-du-bal</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;https://mrflos.github.io/blog/images/featured-vladimir-vysotski.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/featured-vladimir-vysotski.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;La découverte d’un pays commence pour moi souvent par la découverte de sa culture, en particulier sa culture musicale!&lt;/p&gt;
 
 &lt;p&gt;Mon premier coup de cœur que je tiens à partager, c’est Vladimir Vyssotski : http://fr.wikipedia.org/wiki/Vladimir_Vyssotski&lt;/p&gt;
@@ -233,12 +233,29 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Souzdal</title>
-    <link href="https://mrflos.github.io/blog/souzdal/"/>
+    <link href="http://localhost:4000/trucsperso/souzdal/"/>
     <updated>2012-10-12T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/souzdal</id>
+    <id>http://localhost:4000/trucsperso/souzdal</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
+      <email>mrflos@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;&lt;strong&gt;TODO&lt;/strong&gt; : mettre une gallerie photo&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Souzdal</title>
+    <link href="http://localhost:4000/trucs-perso/souzdal/"/>
+    <updated>2012-10-12T00:00:00+04:00</updated>
+    <id>http://localhost:4000/trucs-perso/souzdal</id>
+    <author>
+      <name>mrflos</name>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -254,12 +271,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Rétrospective passionnante sur les jeux vidéos</title>
-    <link href="https://mrflos.github.io/blog/retrospective-passionnante-sur-les-jeux-videos/"/>
+    <link href="http://localhost:4000/trucsperso/retrospective-passionnante-sur-les-jeux-videos/"/>
     <updated>2009-12-21T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/retrospective-passionnante-sur-les-jeux-videos</id>
+    <id>http://localhost:4000/trucsperso/retrospective-passionnante-sur-les-jeux-videos</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -286,12 +303,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Bientôt la fin de la révolution</title>
-    <link href="https://mrflos.github.io/blog/revolution/"/>
+    <link href="http://localhost:4000/trucsperso/revolution/"/>
     <updated>2009-12-19T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/revolution</id>
+    <id>http://localhost:4000/trucsperso/revolution</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -329,12 +346,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>La cote de turquoise, acte 3</title>
-    <link href="https://mrflos.github.io/blog/la-cote-de-turquoise-acte-3/"/>
+    <link href="http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-3/"/>
     <updated>2008-12-26T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/la-cote-de-turquoise-acte-3</id>
+    <id>http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-3</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -393,12 +410,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Les petits plus turcs</title>
-    <link href="https://mrflos.github.io/blog/les-petits-plus-turcs/"/>
+    <link href="http://localhost:4000/trucsperso/les-petits-plus-turcs/"/>
     <updated>2008-12-13T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/les-petits-plus-turcs</id>
+    <id>http://localhost:4000/trucsperso/les-petits-plus-turcs</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -422,12 +439,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Les petits plus grecs</title>
-    <link href="https://mrflos.github.io/blog/les-petits-plus-grecs/"/>
+    <link href="http://localhost:4000/trucsperso/les-petits-plus-grecs/"/>
     <updated>2008-12-13T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/les-petits-plus-grecs</id>
+    <id>http://localhost:4000/trucsperso/les-petits-plus-grecs</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -452,12 +469,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>La cote de turquoise, acte 2</title>
-    <link href="https://mrflos.github.io/blog/la-cote-de-turquoise-acte-2/"/>
+    <link href="http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-2/"/>
     <updated>2008-12-13T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/la-cote-de-turquoise-acte-2</id>
+    <id>http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-2</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -507,12 +524,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>La cote de turquoise, acte 1</title>
-    <link href="https://mrflos.github.io/blog/la-cote-de-turquoise-acte-1/"/>
+    <link href="http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-1/"/>
     <updated>2008-11-27T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/la-cote-de-turquoise-acte-1</id>
+    <id>http://localhost:4000/trucsperso/la-cote-de-turquoise-acte-1</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -530,12 +547,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Pamukkale, première visite turcistique</title>
-    <link href="https://mrflos.github.io/blog/pamukkale-premiere-visite-turcistique/"/>
+    <link href="http://localhost:4000/trucsperso/pamukkale-premiere-visite-turcistique/"/>
     <updated>2008-11-19T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/pamukkale-premiere-visite-turcistique</id>
+    <id>http://localhost:4000/trucsperso/pamukkale-premiere-visite-turcistique</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -561,12 +578,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Ich bin ein Stambouliote</title>
-    <link href="https://mrflos.github.io/blog/ich-bin-ein-stambouliote/"/>
+    <link href="http://localhost:4000/trucsperso/ich-bin-ein-stambouliote/"/>
     <updated>2008-11-14T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/ich-bin-ein-stambouliote</id>
+    <id>http://localhost:4000/trucsperso/ich-bin-ein-stambouliote</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -598,12 +615,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Le train train non quotidien</title>
-    <link href="https://mrflos.github.io/blog/le-train-train-non-quotidien/"/>
+    <link href="http://localhost:4000/trucsperso/le-train-train-non-quotidien/"/>
     <updated>2008-11-12T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/le-train-train-non-quotidien</id>
+    <id>http://localhost:4000/trucsperso/le-train-train-non-quotidien</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -645,12 +662,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>En route, ou plutôt en galère vers Athènes !</title>
-    <link href="https://mrflos.github.io/blog/en-route-ou-plutot-en-galere-vers-athenes/"/>
+    <link href="http://localhost:4000/trucsperso/en-route-ou-plutot-en-galere-vers-athenes/"/>
     <updated>2008-11-07T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/en-route-ou-plutot-en-galere-vers-athenes</id>
+    <id>http://localhost:4000/trucsperso/en-route-ou-plutot-en-galere-vers-athenes</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -700,12 +717,12 @@ Qu’on arrête en plein vol.&lt;/p&gt;
   
   <entry>
     <title>Visite au centre du monde</title>
-    <link href="https://mrflos.github.io/blog/visite-au-centre-du-monde/"/>
+    <link href="http://localhost:4000/trucsperso/visite-au-centre-du-monde/"/>
     <updated>2008-11-06T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/visite-au-centre-du-monde</id>
+    <id>http://localhost:4000/trucsperso/visite-au-centre-du-monde</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -738,12 +755,12 @@ On avance a petits pas de 20 km, mais ca marche, les prochains conducteurs sont 
   
   <entry>
     <title>Olympie (que de Marseille)</title>
-    <link href="https://mrflos.github.io/blog/olympie-que-de-marseille/"/>
+    <link href="http://localhost:4000/trucsperso/olympie-que-de-marseille/"/>
     <updated>2008-11-05T00:00:00+03:00</updated>
-    <id>https://mrflos.github.io/blog/olympie-que-de-marseille</id>
+    <id>http://localhost:4000/trucsperso/olympie-que-de-marseille</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
@@ -781,12 +798,12 @@ On avance a petits pas de 20 km, mais ca marche, les prochains conducteurs sont 
   
   <entry>
     <title>Début de voyage, destination Grèce</title>
-    <link href="https://mrflos.github.io/blog/debut-voyage-destination-grece/"/>
+    <link href="http://localhost:4000/trucsperso/debut-voyage-destination-grece/"/>
     <updated>2008-10-21T00:00:00+04:00</updated>
-    <id>https://mrflos.github.io/blog/debut-voyage-destination-grece</id>
+    <id>http://localhost:4000/trucsperso/debut-voyage-destination-grece</id>
     <author>
       <name>mrflos</name>
-      <uri>https://mrflos.github.io/blog/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>mrflos@gmail.com</email>
     </author>
     <content type="html">
